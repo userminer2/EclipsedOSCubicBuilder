@@ -1,4 +1,6 @@
 # EclipsedOSCubicBuilder
 A way to build your own version of eclipsedOS in cubic
 
-# current commands
+# Command
+
+  none rn
